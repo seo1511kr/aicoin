@@ -199,7 +199,7 @@ body {
 .bar-container {
   height: 2.7rem;
 }
-.dinosaur-box {
+.class1\(대상승\)-box {
   position: absolute;
   top: 0;
   left: 0;
@@ -208,7 +208,7 @@ body {
   width: 100%;
   background-color: rgba(117, 204, 84, 0.2);
 }
-.dinosaur-bar {
+.class1\(대상승\)-bar {
   position: absolute;
   top: 0;
   left: 0;
@@ -216,7 +216,7 @@ body {
   border-radius: 10px;
   background-color: rgba(117, 204, 84, 1);
 }
-.deer-box {
+.class2\(상승\)-box {
   position: absolute;
   top: 0;
   left: 0;
@@ -225,7 +225,7 @@ body {
   width: 100%;
   background-color: rgba(117, 204, 84, 0.2);
 }
-.deer-bar {
+.class2\(상승\)-bar {
   position: absolute;
   top: 0;
   left: 0;
@@ -233,7 +233,7 @@ body {
   border-radius: 10px;
   background-color: rgba(117, 204, 84, 1);
 }
-.dog-box {
+.class3\(하락\)-box {
   position: absolute;
   top: 0;
   left: 0;
@@ -242,7 +242,7 @@ body {
   width: 100%;
   background-color: rgba(27, 175, 234, 0.2);
 }
-.dog-bar {
+.class3\(하락\)-bar {
   position: absolute;
   top: 0;
   left: 0;
@@ -250,7 +250,7 @@ body {
   border-radius: 10px;
   background-color: rgba(27, 175, 234, 1);
 }
-.cat-box {
+.class4\(대하락\)-box {
   position: absolute;
   top: 0;
   left: 0;
@@ -259,7 +259,7 @@ body {
   width: 100%;
   background-color: rgba(251, 176, 59, 0.2);
 }
-.cat-bar {
+.class4\(대하락\)-bar {
   position: absolute;
   top: 0;
   left: 0;
@@ -339,31 +339,31 @@ body {
 .animal-explain {
     font-size: 1.5rem;
 }
-.dinosaur-animal-title {
+.class1\(대상승\)-animal-title {
     color: #3ba363;
 }
-.dinosaur-animal-celeb {
-    color: #3ba363;
-    font-size: 1.2rem;
-}
-.deer-animal-title {
-    color: #3ba363;
-}
-.deer-animal-celeb {
+.class1\(대상승\)-animal-celeb {
     color: #3ba363;
     font-size: 1.2rem;
 }
-.cat-animal-title {
+.class2\(상승\)-animal-title {
+    color: #3ba363;
+}
+.class2\(상승\)-animal-celeb {
+    color: #3ba363;
+    font-size: 1.2rem;
+}
+.class3\(하락\)-animal-title {
     color: #ff6c0a;
 }
-.cat-animal-celeb {
+.class3\(하락\)-animal-celeb {
     color: #ff6c0a;
     font-size: 1.2rem;
 }
-.dog-animal-title {
+.class4\(대하락\)-animal-title {
     color: #548dd4;
 }
-.dog-animal-celeb {
+.class4\(대하락\)-animal-celeb {
     color: #548dd4;
     font-size: 1.2rem;
 }
